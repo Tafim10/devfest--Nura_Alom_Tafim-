@@ -1,5 +1,7 @@
 # Tender Package Builder — Competition Edition
 
+Name: Nura ALom Tafim 
+Website Link: 
 Frontend-only implementation for the AI DevFest "Tender Document Package Builder".
 
 ## Core requirements covered
